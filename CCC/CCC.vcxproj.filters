@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\入门习题">
+      <UniqueIdentifier>{adbedb2b-93cf-4f1c-93a4-cb93a86057ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Nothing Maybe">
+      <UniqueIdentifier>{28b9fdef-9160-4fc7-b90a-ac8255db1710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\if相关">
+      <UniqueIdentifier>{7515159b-ebd4-4f33-be3e-0d8cc606f190}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\if_else相关">
+      <UniqueIdentifier>{f8276f6d-a87f-4977-98de-5e49fa88c602}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\杂乱">
+      <UniqueIdentifier>{4fab2fc4-712e-4d51-8e70-01ec76932c3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\switch相关">
+      <UniqueIdentifier>{e0d1c35c-b85c-494f-be36-a68d0713efc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\while相关">
+      <UniqueIdentifier>{119b2a03-0c99-4126-a404-baa58502c940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\for相关">
+      <UniqueIdentifier>{19f27c4d-f3cd-42d2-b6fd-fd3a4143649a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\for相关\for进阶">
+      <UniqueIdentifier>{259a64a0-293a-4ed0-9b98-2ef253516dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\函数%28函式%29相关">
+      <UniqueIdentifier>{c5eedbdf-f1cc-442c-915c-1a060130003e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="印出 Hello World!.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="印出 Hello C World!.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="求两个整数的和.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="求三个整数的和.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="交换两个数的数值.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="交换三个数的数值.c">
+      <Filter>源文件\入门习题</Filter>
+    </ClCompile>
+    <ClCompile Include="推箱子.c">
+      <Filter>源文件\Nothing Maybe</Filter>
+    </ClCompile>
+    <ClCompile Include="if.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_猜数字.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_等腰三角形的判断练习.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_对多个变量排序.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_对多个变量求最小值.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_对两%28三%29个变量按照大小排序.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_简化_三种三角形的综合判断.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_满额折扣计算器.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_判断两个数字的大小.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_判断三个数字的大小.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_判断四个数字的大小.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_求三个变量中的中位数.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_三个变量的数值交换.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_三种三角形的综合判断.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_用排序简化三角形的判断(不如_简化三种三角形的综合判断).c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_正三角形的判断练习.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_直角三角形的判断练习.c">
+      <Filter>源文件\if相关</Filter>
+    </ClCompile>
+    <ClCompile Include="1.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="2.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="3.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="xiawan.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="测试1.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="计算平均数.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="三数相加求和_1.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="三数相加求和_2.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="输入大写字母,转换成小写字母.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="数值转换练习_1.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="数值转换练习_2.c">
+      <Filter>源文件\杂乱</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_输入成绩,判断考试是否合格.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_两个数字比大小.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_猜数字.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_四则运算练习.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_三个数字比大小.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_求两个值的最大值.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="switch判断&amp;循环.c">
+      <Filter>源文件\switch相关</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else猜两次数字.c">
+      <Filter>源文件\if_else相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while有条件的重复执行.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while猜数字.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while求不定个数的正整数和的练习.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while求不定个数的正整数和的平均数.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while数数字练习_用户输入起点和终点.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while数数字练习_从1到N结束.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while猜数字练习.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="switch消费金额计算.c">
+      <Filter>源文件\switch相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for数数字练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for等差数列练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for输出特定的数列.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for求连续整数和的练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for用文字绘制横线练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for韩信点兵练习_用户决定上限.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for韩信点兵练习_用户决定上限和下限.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="while韩信点兵练习_输出最大值.c">
+      <Filter>源文件\while相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for找出所有正因数的练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for韩信点兵练习_找到1~1000中三个符合条件的最小的值.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for质数(素数)的判断练习.c">
+      <Filter>源文件\for相关</Filter>
+    </ClCompile>
+    <ClCompile Include="for输出九九乘法表的练习.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for用星号绘制实心方形.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for用星号绘制空心方形.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for用星号绘制实心三角形.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for用星号绘制空心三角形.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for使用坐标法_用文字绘制三角形.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="for求简易整数方程式的解练习.c">
+      <Filter>源文件\for相关\for进阶</Filter>
+    </ClCompile>
+    <ClCompile Include="简易的了解函数.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="计算平方根.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="对两个整数求最大值的练习.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="_重要_关于变量名称的可视范围_scope.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="对三个整数求最大值的练习.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="用文字绘制三角形.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+    <ClCompile Include="TestGit.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
