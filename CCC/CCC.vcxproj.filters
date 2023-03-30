@@ -273,6 +273,9 @@
     <ClCompile Include="TestGit.c">
       <Filter>源文件\函数%28函式%29相关</Filter>
     </ClCompile>
+    <ClCompile Include="testgit1.c">
+      <Filter>源文件\函数%28函式%29相关</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
